@@ -50,7 +50,7 @@ int main()
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/bfb2aaec-e2f7-44df-a01a-70769dcfd719)
+![image](https://github.com/user-attachments/assets/b7024c94-78a4-4ab5-9d95-d750cdf03682)
 
 
 ## Result:
